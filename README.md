@@ -1,3 +1,3 @@
 # kottans-frontend
 
-Really interesting materials.
+Really interesting materials. Thanks!
