@@ -7,3 +7,4 @@ But learngitbranching.js.org not so useful for me, because it`s without real cod
 ## Linux CLI, and HTTP
 
 ![module1_png](task_linux_cli/linux_module_1.png)
+![module2_png](task_linux_cli/linux_module_2.png)
