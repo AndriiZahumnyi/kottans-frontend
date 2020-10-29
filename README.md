@@ -20,3 +20,7 @@ understanding of HTTP Basics, Tools to View HTTP Traffic, Using HTTP in Web Fram
 
 I hope to use this useful information in my future professional activity, especial Linux CLI, Web Developers Tools, Identification and Authentication.
 
+## Git Collaboration
+
+![GitHub & Collaboration](task_git_collaboration/GitHub & Collaboration.png)
+
