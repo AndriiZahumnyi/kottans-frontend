@@ -22,5 +22,5 @@ I hope to use this useful information in my future professional activity, especi
 
 ## Git Collaboration
 
-![GitHub & Collaboration](task_git_collaboration/GitHub & Collaboration.png)
+![GitHub & Collaboration](task_git_collaboration/GitHub_and_Collaboration.png)
 
