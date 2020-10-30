@@ -38,19 +38,19 @@ I hope to use this useful information in my future professional activity, especi
 
 In this third part of General level about Git Collabotation new for me were almost all information. I`ve learned:
   1. Working with remotes.
-  - collaborate with others
-  - use GitHub
-  - contribute to a repo
-  - develop on an active project
+   - collaborate with others
+   - use GitHub
+   - contribute to a repo
+   - develop on an active project
   2. Working on another developers repository.
-  - forking a repository
-  - reviewing another developers change
-  - knowing what change to make
+   - forking a repository
+   - reviewing another developers change
+   - knowing what change to make
   3. Staying in sync with a remote repository.
-  - create a pull request
-  - retrieve and sync updates
-  - develop on an active pull request
-  - squash commits
+   - create a pull request
+   - retrieve and sync updates
+   - develop on an active pull request
+   - squash commits
 
 ## Intro to HTML and CSS
 
