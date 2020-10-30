@@ -1,6 +1,6 @@
 # kottans-frontend
 
-Udacity really interesting materials. Thanks!
+Udacity provides really interesting materials. Thanks!
 
 
 ## Linux CLI, and HTTP
