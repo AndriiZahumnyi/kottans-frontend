@@ -39,4 +39,6 @@ I hope to use this useful information in my future professional activity, especi
 In this third part of General level about Git Collabotation new for me were almost all information. I`ve learned:
   1. Working with remotes.
 
+## Intro to HTML and CSS
 
+![Intro_to_HTML_CSS](task_html_css_intro/Intro_to_HTML_CSS.png)
