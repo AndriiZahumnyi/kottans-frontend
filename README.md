@@ -35,6 +35,8 @@ I hope to use this useful information in my future professional activity, especi
 ## Git Collaboration
 
 ![GitHub_Collaboration](task_git_collaboration/gitHub_and_collaboration.png)
+![LearnGitBranching1](task_git_collaboration/learngitbranching1.png)
+![LearnGitBranching2](task_git_collaboration/learngitbranching2.png)
 
 In this third part of General level about Git Collabotation new for me were almost all information. I`ve learned:
   1. Working with remotes.
