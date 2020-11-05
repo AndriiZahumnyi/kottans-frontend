@@ -37,3 +37,7 @@ So to work and collaborate with other developers through Git and GitHub I`m goin
 
 ![Intro_to_HTML_CSS](task_html_css_intro/Intro_to_HTML_CSS.png)
 ![learn_HTML](task_html_css_intro/learn_html.png)
+![learn_CSS](task_html_css_intro/learn_css.png)
+
+Good intro to Web development! Practice, practice and one more time practice and everything will be allright!
+A lot of new information for me, despite I`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
