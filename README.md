@@ -41,3 +41,5 @@ So to work and collaborate with other developers through Git and GitHub I`m goin
 
 Good intro to Web development! Practice, practice and one more time practice and everything will be allright!
 A lot of new information for me, despite I`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
+
+## Responsive Web Design
