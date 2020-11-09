@@ -31,7 +31,7 @@ I hope to use this useful information in my future professional activity, especi
 
 In this third part of General level about GitHub and Collabotation new for me were almost all information.
 Like in zero Git Basics part GitHub & Collaboration from Udacity is well understood, but not learngitbranching.js.org.
-So to work and collaborate with other developers through Git and GitHub I`m going to study some extra materials.
+So to work and collaborate with other developers through Git and GitHub I\`m going to study some extra materials.
  
 ## Intro to HTML and CSS
 
@@ -40,14 +40,14 @@ So to work and collaborate with other developers through Git and GitHub I`m goin
 ![learn_CSS](task_html_css_intro/learn_css.png)
 
 Good intro to Web development! Practice, practice and one more time practice and everything will be allright!
-A lot of new information for me, despite I`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
+A lot of new information for me, despite I\`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
 
 ## Responsive Web Design
 
 ![Responsive_Web_Design_Fundamentals](task_responsive_web_design/responsive_web_design_fundamentals.png)
 ![Flexbox_Froggy](task_responsive_web_design/flexbox_froggy.png)
 
-Good intro to Responsive Web Design, theory and some practice it`s a fine combination in studying!
-I`ve repeated and freshed some information about responsiveness in WEb Development and learned some other. Namely,
+Good intro to Responsive Web Design, theory and some practice it\`s a fine combination in studying!
+I\`ve repeated and freshed some information about responsiveness in WEb Development and learned some other. Namely,
 more clearly understanding how to apply Flexbox tools, Responsive patterns and other optimizations, like 
 responsive images, tables and minor breakpoints.
