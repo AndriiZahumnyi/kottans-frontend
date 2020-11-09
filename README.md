@@ -46,3 +46,8 @@ A lot of new information for me, despite I`ve learned HTML and CSS earlier. Espe
 
 ![Responsive_Web_Design_Fundamentals](task_responsive_web_design/responsive_web_design_fundamentals.png)
 ![Flexbox_Froggy](task_responsive_web_design/flexbox_froggy.png)
+
+Good intro to Responsive Web Design, theory and some practice it`s a fine combination in studying!
+I`ve repeated and freshed some information about responsiveness in WEb Development and learned some other. Namely,
+more clearly understanding how to apply Flexbox tools, Responsive patterns and other optimizations, like 
+responsive images, tables and minor breakpoints.
