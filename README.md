@@ -14,7 +14,7 @@ correct in practice.
 
 My reflections on all Linux CLI, and HTTP subtasks.
 
-Linux CLI module_1, module_2 weren`t new for me, I`d learned those material earlier, just repeat.
+Linux CLI module_1, module_2 weren\`t new for me, I\`d learned those material earlier, just repeat.
 
 Module_3, Module_4 were new for me. The information is presented clearly and hope that I will use this knowledge. 
 
