@@ -43,3 +43,6 @@ Good intro to Web development! Practice, practice and one more time practice and
 A lot of new information for me, despite I`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
 
 ## Responsive Web Design
+
+![Responsive_Web_Design_Fundamentals](task_responsive_web_design/responsive_web_design_fundamentals.png)
+![Flexbox_Froggy](task_responsive_web_design/flexbox_froggy.png)
