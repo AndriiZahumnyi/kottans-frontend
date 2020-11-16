@@ -54,4 +54,4 @@ responsive images, tables and minor breakpoints.
 
 ## HTML & CSS practice: Hooli-style Popup
 
-https://andriizahumnyi.github.io/HTML-CSS-practice-Hooli-style-Popup/
+Demo https://andriizahumnyi.github.io/HTML-CSS-practice-Hooli-style-Popup/
