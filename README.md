@@ -52,4 +52,6 @@ I\`ve repeated and freshed some information about responsiveness in WEb Developm
 more clearly understanding how to apply Flexbox tools, Responsive patterns and other optimizations, like 
 responsive images, tables and minor breakpoints.
 
-https://github.com/AndriiZahumnyi/HTML-CSS-practice-Hooli-style-Popup
+## HTML & CSS practice: Hooli-style Popup
+
+https://andriizahumnyi.github.io/HTML-CSS-practice-Hooli-style-Popup/
