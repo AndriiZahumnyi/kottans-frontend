@@ -40,7 +40,8 @@ So to work and collaborate with other developers through Git and GitHub I\`m goi
 ![learn_CSS](task_html_css_intro/learn_css.png)
 
 Good intro to Web development! Practice, practice and one more time practice and everything will be allright!
-A lot of new information for me, despite I\`ve learned HTML and CSS earlier. Especially CSS Flex and Grid.
+A lot of new information for me, especially CSS Flex and pure Grid (without Bootstrap library). Despite I\`ve learned HTML and CSS earlier, I\`ve got new extra
+knowledge, that I intend to use in future.
 
 ## Responsive Web Design
 
@@ -55,4 +56,9 @@ responsive images, tables and minor breakpoints.
 ## HTML & CSS practice: Hooli-style Popup
 
 [Demo](https://andriizahumnyi.github.io/HTML-CSS-practice-Hooli-style-Popup/)
+
+In this practice task I\`ve faced with web accessibility, that was brand new for me!
+It was really interesting challenge, to implement ability to switch across all interactive
+elements using only keyboard (without a mouse) with CSS pseudo-class :focus.
+Also was very interesting to realize this Popup menu without JavaScript, only pure HTML & CSS.
 
