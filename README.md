@@ -58,7 +58,7 @@ responsive images, tables and minor breakpoints.
 [Demo](https://andriizahumnyi.github.io/HTML-CSS-practice-Hooli-style-Popup/)
 
 In this practice task I\`ve faced with web accessibility, that was brand new for me!
-It was really interesting challenge, to implement ability to switch across all interactive
+It was really interesting challenge, to implement ability to switch across all the interactive
 elements using only keyboard (without a mouse) with CSS pseudo-class :focus.
 Also was very interesting to realize this Popup menu without JavaScript, only pure HTML & CSS.
 
