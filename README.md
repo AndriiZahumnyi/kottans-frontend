@@ -68,10 +68,12 @@ Also was very interesting to realize this Popup menu without JavaScript, only pu
 
 In this section I\`ve repeated JavaScript Basics and learned intro to ES6 Standard. Almost all ES6 standard was new for me,
 except let, const and a little bit about arrow functions, Default Parameters for FunctionsPassed, Create Strings using Template Literals and some other.
+
 Interesting part was Functional programming that an approach to software development based around the evaluation of functions.
 I have got more clear understanding and possibility to use Map, Reduce, Filter, Some, Every, ForEach and some other arrays methods in solving tasks.
 Really surprised me Filter, Map, especially Reduce array method, so powerfull! But I need more practice to use them more widely and more easy to solving tasks.
 Also new was Concat method, I`ve learned difference between Slice and Splice methods.
+
 Brand new for me in ES6 standard were:
 - Object.freeze() function,
 - Use the Rest Parameter with Function ParametersPassed,
@@ -79,6 +81,7 @@ Brand new for me in ES6 standard were:
 - Use Destructuring Assignment to Extract Values, Assign Variables,
 - Write Concise Object Literal Declarations Using Object Property Shorthand,
 - Write Concise Declarative Functions with ES6Passed.
+
 I intend to use all that knowledge in my future professional activity!
 
 
