@@ -80,8 +80,8 @@ Brand new for me in ES6 standard were:
 - Use the Spread Operator to Evaluate Arrays In-Place,
 - Use Destructuring Assignment to Extract Values, Assign Variables,
 - Write Concise Object Literal Declarations Using Object Property Shorthand,
-- Write Concise Declarative Functions with ES6Passed.
+- Write Concise Declarative Functions with ES6.
 
-I intend to use all that knowledge in my future professional activity!
+I intend to use all these knowledge in my future professional activity!
 
 
