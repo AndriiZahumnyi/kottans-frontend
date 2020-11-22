@@ -62,3 +62,8 @@ It was really interesting challenge, to implement ability to switch across all t
 elements using only keyboard (without a mouse) with CSS pseudo-class :focus.
 Also was very interesting to realize this Popup menu without JavaScript, only pure HTML & CSS.
 
+## JS Basics
+![Intro To JavaScript](task_js_basics/Intro_to_JavaScript.png)
+![Intro To JavaScript](task_js_basics/freeCodeCampBasicsJS.png)
+
+
