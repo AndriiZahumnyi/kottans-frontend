@@ -49,7 +49,7 @@ knowledge, that I intend to use in future.
 ![Flexbox_Froggy](task_responsive_web_design/flexbox_froggy.png)
 
 Good intro to Responsive Web Design, theory and some practice it\`s a fine combination in studying!
-I\`ve repeated and freshed some information about responsiveness in WEb Development and learned some other. Namely,
+I\`ve repeated and refreshed some information about responsiveness in WEB Development and learned some other. Namely,
 more clearly understanding how to apply Flexbox tools, Responsive patterns and other optimizations, like 
 responsive images, tables and minor breakpoints.
 
@@ -65,5 +65,21 @@ Also was very interesting to realize this Popup menu without JavaScript, only pu
 ## JS Basics
 ![Intro To JavaScript](task_js_basics/Intro_to_JavaScript.png)
 ![Intro To JavaScript](task_js_basics/freeCodeCampBasicsJS.png)
+
+In this section I\`ve repeated JavaScript Basics and learned intro to ES6 Standard. Almost all ES6 standard was new for me,
+except let, const and a little bit about arrow functions, Default Parameters for FunctionsPassed, Create Strings using Template Literals and some other.
+Interesting part was Functional programming that an approach to software development based around the evaluation of functions.
+I have got more clear understanding and possibility to use in solving tasks:
+- Map, Reduce, and Filter - JS Array Functions,
+- Some, Every, ForEach - JS Array Functions,
+New were Concat method
+Brand new for me in ES6 standard were:
+- Object.freeze() function,
+- Use the Rest Parameter with Function ParametersPassed,
+- Use the Spread Operator to Evaluate Arrays In-Place,
+- Use Destructuring Assignment to Extract Values, Assign Variables,
+- Write Concise Object Literal Declarations Using Object Property Shorthand,
+- Write Concise Declarative Functions with ES6Passed.
+
 
 
