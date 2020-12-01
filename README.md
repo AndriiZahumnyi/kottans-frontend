@@ -87,5 +87,5 @@ I intend to use all these knowledge in my future professional activity!
 
 ## DOM
 
-![JS and the DOM](task_js_dom /Intro_to_JavaScript.png)
-![freecodecamp tasks](task_js_dom /freeCodeCampBasicsJS.png)
+![JS and the DOM](task_js_dom /JS_and_DOM.png)
+![freecodecamp tasks](task_js_dom /freeCodeCampJS_DOM.png)
