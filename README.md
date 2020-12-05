@@ -89,3 +89,12 @@ I intend to use all these knowledge in my future professional activity!
 
 ![JS and the DOM](task_js_dom/JS_and_DOM.png)
 ![freecodecamp tasks](task_js_dom/freeCodeCampJS_DOM.png)
+
+In this section I\`ve learned a lot of basics about DOM. Also I\`ve repeated some simple things like:
+- selecting page elements with css selectors,
+- select page elkements by ID, class, tag,
+- 
+
+
+Brand new for me in this section were:
+- Nodes, Elements and Interfaces
