@@ -90,7 +90,7 @@ I intend to use all these knowledge in my future professional activity!
 ![JS and the DOM](task_js_dom/JS_and_DOM.png)
 ![freecodecamp tasks](task_js_dom/freeCodeCampJS_DOM.png)
 
-In the first part of this stage, namely JavaScript and DOM I\`ve learned a lot of basics about the DOM, about how the DOM is constructed with all those Nodes, 
+In the first part of this stage, namely JavaScript and DOM, I\`ve learned a lot of basics about the DOM, about how the DOM is constructed with all those Nodes, 
 Elements and Interfaces, about extra ways to access elements. 
 I\`ve learned how to:
 - creating page content with javascript (update, add, remove, style),
