@@ -109,4 +109,6 @@ I faced with one task, really challenging for me at this time - it\`s Smallest C
 
 In the third part, Practical Task was really challenging and the final decision was gained with mentor\`s help after few my own trying.
 
+[Demo](https://andriizahumnyi.github.io/DOM---Practical-Task/)
+
 I intend to use all these knowledge in my future professional activity!
