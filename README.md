@@ -90,15 +90,23 @@ I intend to use all these knowledge in my future professional activity!
 ![JS and the DOM](task_js_dom/JS_and_DOM.png)
 ![freecodecamp tasks](task_js_dom/freeCodeCampJS_DOM.png)
 
-In this section I\`ve learned a lot of basics about the DOM, about how the DOM is constructed with all those Nodes, 
+In the first part of this stage, namely JavaScript and DOM I\`ve learned a lot of basics about the DOM, about how the DOM is constructed with all those Nodes, 
 Elements and Interfaces, about extra ways to access elements. 
 I\`ve learned how to:
 - creating page content with javascript (update, add, remove, style),
 - working with browser events (respond to events, remove an event listener, avoid too many events, know when the DOM is ready),
-- add page content efficiently, reflow and repaint, 
+- add page content efficiently, reflow and repaint, setTimeout; about the call stack, the event loop.
+
+The greater part of this topic was new for me, but a lot of this information I know in this or another way.
 
 I\`ve also repeated some simple things like:
 - selecting page elements with css selectors,
 - select page elements by ID, class, tag,
-- creating content with javascript
+- creating, styling content, add event listener with javascript
 
+In the second part, from FreeCodeCamp,Introduction to the Intermediate Algorithm Scripting Challenges, 
+I faced with one task, really challenging for me at this time - it\`s Smallest Common Multiple.
+
+In the third part, Practical Task was really challenging and the final decision was gained with mentor\`s help after few my own trying.
+
+I intend to use all these knowledge in my future professional activity!
