@@ -91,12 +91,14 @@ I intend to use all these knowledge in my future professional activity!
 ![freecodecamp tasks](task_js_dom/freeCodeCampJS_DOM.png)
 
 In this section I\`ve learned a lot of basics about the DOM, about how the DOM is constructed with all those Nodes, 
-Elements and Interfaces.
+Elements and Interfaces, about extra ways to access elements. 
+I\`ve learned how to:
+- creating page content with javascript (update, add, remove, style),
+- working with browser events (respond to events, remove an event listener, avoid too many events, know when the DOM is ready),
+- add page content efficiently, reflow and repaint, 
+
 I\`ve also repeated some simple things like:
 - selecting page elements with css selectors,
-- select page elkements by ID, class, tag,
-- 
+- select page elements by ID, class, tag,
+- creating content with javascript
 
-
-Brand new for me in this section were:
-- Nodes, Elements and Interfaces
