@@ -107,7 +107,7 @@ I\`ve also repeated some simple things like:
 In the second part, from FreeCodeCamp,Introduction to the Intermediate Algorithm Scripting Challenges, 
 I faced with one task, really challenging for me at this time - it\`s Smallest Common Multiple.
 
-In the third part, Practical Task was really challenging and the final decision was gained with mentor\`s help after few my own trying.
+In the third part, Practical Task was really challenging and interesting. The final decision was gained with mentor\`s help, after few my own trying with classic for loop and other variants that mentor advised as a more clear code.
 
 [Demo](https://andriizahumnyi.github.io/DOM---Practical-Task/)
 
