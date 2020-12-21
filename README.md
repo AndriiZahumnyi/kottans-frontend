@@ -112,3 +112,11 @@ In the third part, Practical Task was really challenging and interesting. The fi
 [Demo](https://andriizahumnyi.github.io/DOM---Practical-Task/)
 
 I intend to use all these knowledge in my future professional activity!
+
+## Building a Tiny JS World (pre-OOP) - practice
+
+[Demo](https://github.com/AndriiZahumnyi/a-tiny-JS-world)
+
+## Object-Oriented JavaScript
+
+
