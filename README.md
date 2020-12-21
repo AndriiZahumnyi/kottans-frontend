@@ -119,4 +119,5 @@ I intend to use all these knowledge in my future professional activity!
 
 ## Object-Oriented JavaScript
 
-
+![JS and the DOM](task_js_dom/JS_and_DOM.png)
+![freecodecamp tasks](task_js_dom/freeCodeCampJS_DOM.png)
