@@ -121,3 +121,6 @@ I intend to use all these knowledge in my future professional activity!
 
 ![JS and the DOM](task_js_oop/udacity_OOP_JS.png)
 ![freecodecamp tasks](task_js_oop/CodeWars.png)
+
+[Demo](https://andriizahumnyi.github.io/frontend-nanodegree-arcade-game/)
+
