@@ -115,7 +115,7 @@ I intend to use all these knowledge in my future professional activity!
 
 ## Building a Tiny JS World (pre-OOP) - practice
 
-[Demo](https://github.com/AndriiZahumnyi/a-tiny-JS-world)
+[Demo](https://andriizahumnyi.github.io/a-tiny-JS-world/)
 
 ## Object-Oriented JavaScript
 
